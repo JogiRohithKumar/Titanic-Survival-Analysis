@@ -4,7 +4,7 @@ Data cleaning and preprocessing of the Titanic dataset
 
 ## Titanic Dataset Preprocessing Project
 
-This project focuses on **cleaning** and **preparing** the Titanic dataset for **machine learning** analysis. The main objective is to **handle missing data**, **convert categorical variables to numeric**, **normalize numerical features**, and **detect/remove outliers** to ensure the data is ready for modeling.
+This project was built as part of my machine learning learning journey. This project focuses on **cleaning** and **preparing** the Titanic dataset for **machine learning** analysis. The main objective is to **handle missing data**, **convert categorical variables to numeric**, **normalize numerical features**, and **detect/remove outliers** to ensure the data is ready for modeling.
 
 ---
 
