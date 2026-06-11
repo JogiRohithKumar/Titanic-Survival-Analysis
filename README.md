@@ -1,5 +1,5 @@
 # Machine Learning Data Preprocessing Pipeline
-Data cleaning and preprocessing of the Titanic dataset
+End-to-end machine learning workflow for Titanic survival prediction with EDA, feature engineering and model comparison.
 
 
 ## Titanic Dataset Preprocessing Project
