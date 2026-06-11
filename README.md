@@ -57,6 +57,20 @@ The Titanic dataset contains information about the passengers aboard the Titanic
 
 ---
 
+## Key Outcomes
+
+✅ Cleaned 891 passenger records
+
+✅ Engineered passenger title features
+
+✅ Compared 9 machine learning models
+
+✅ Achieved 83.5% cross-validation accuracy
+
+✅ Built an end-to-end ML workflow
+
+---
+
 ## 🛠️ Tools & Libraries Used
 
 ```python
