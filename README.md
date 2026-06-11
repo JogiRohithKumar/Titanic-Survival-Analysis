@@ -1,4 +1,4 @@
-# AIML-Titanic-Data-Preprocessing
+# Machine Learning Data Preprocessing Pipeline
 Data cleaning and preprocessing of the Titanic dataset
 
 
